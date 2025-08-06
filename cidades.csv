@@ -1,0 +1,47 @@
+﻿cidade;url;cnpj-selector;login-selector;senha_seletor
+ABRE CAMPO/MG;https://mg-abrecampo-pm-nfs.cloud.el.com.br//paginas/sistema/login.jsf;;j_idt57;j_idt61
+ALFENAS/MG;https://e-gov.betha.com.br/e-nota/login.faces;;login:iUsuarios;login:senha
+ALFREDO VASCONCELOS;https://alfredovasconcelos.nfiss.com.br/;;login;senha
+ALTEROSA/MG;https://e-gov.betha.com.br/e-nota/login.faces;;login:iUsuarios;login:senha
+BELO HORIZONTE/MG;https://bhissdigital.pbh.gov.br/nfse/pages/security/login.jsf;;username;password
+BOA ESPERANÇA/MG;https://e-gov.betha.com.br/e-nota/login.faces;;login:iUsuarios;login:senha
+BOM REPOUSO/MG;"http://nfe.sgpcloud.net:9031/issweb/paginas/login;jsessionid=yaT2dDB5ax5pB+-TFuatzEZT.undefined";;username;password
+BUENO BRANDAO/MG;https://nfe.sgpcloud.net:9069/issweb/paginas/login;;j_idt104;password
+CAARATINGA;https://caratinga.govbr.cloud/nfse.portal/;;Usuario;Senha
+CAJURI/MG;https://cajurimg.nfse-futurize.com.br/canalprestador.php;;usu_login;usu_senha
+CARATINGA/MG;https://caratinga.govbr.cloud/nfse.portal/;;Usuario;Senha
+CARMÓPOLIS DE MINAS/MG;https://nfse-carmopolisdeminas.atende.net/autoatendimento/servicos/acesso-ao-sistema-fiscal-web-novo/detalhar/1;;login;senha
+COIMBRA/MG;https://coimbramg.nfse-futurize.com.br/canalprestador.php;;usu_login;usu_senha
+COLATINA/ES;https://es-colatina-pm-nfs.cloud.el.com.br//paginas/sistema/login.jsf;;j_idt57;j_idt61
+ESTIVA/MG;https://nfe.sgpcloud.net:9063/issweb/paginas/login;;username;password
+FRANCA/SP;https://franca.siltecnologia.com.br/loginCNPJContribuinte.jsp?execobj=ContribuintesWebRelacionados;;usuario;senha
+IPANEMA/MG;https://nfsebrasil.net.br/nfse/index.php?cl=3131208;;EDT_cpf;EDT_senha
+ITARANA/ES;https://es-itarana-pm-nfs.cloud.el.com.br/#/login;;usuario;senha
+JAGUARÉ/ES;https://es-jaguare-pm-nfs.cloud.el.com.br/;;usuario;senha
+LAMBARI/MG;https://nfe.sgpcloud.net:9075/issweb/paginas/login;;username;password
+LARANJA DA TERRA/ES;https://es-laranjadaterra-pm-nfs.cloud.el.com.br/#/login;;usuario;senha
+MACHADO/MG;https://www.ereceita.net.br/inicial.php?time742155=742155173687620420250114143644742228&urlInicial=U0vOyUzNK0m1zU1MzkhMyQcA&session=19103121424310468nfse1736876199s082507300;;acesso[login];acesso[senha]
+MANHUAÇU/MG;https://mg-manhuacu-pm-nfs.cloud.el.com.br/index.html?e=expire;;j_idt57;j_idt61
+MONTANHA/ES;https://es-montanha-pm-nfs.cloud.el.com.br//paginas/sistema/login.jsf#/;;usuario;senha
+ORIZANIA/MG;https://orizaniamg.nfse-futurize.com.br/canalprestador.php;;usu_login;usu_senha
+PANCAS/ES;https://es-pancas-pm-nfs.cloud.el.com.br/#/login;;usuario;senha
+PARA DE MINAS;https://parademinas.mg.issqn.quasar.srv.br/issqn/login.xhtml;;formPrincipal:login;formPrincipal:senha
+PARA DE MINAS/MG;https://parademinas.mg.issqn.quasar.srv.br/issqn/login.xhtml;;formPrincipal:login;formPrincipal:senha
+PIMENTA/MG;https://nfsebrasil.net.br/nfse/login/untlogin.php;;EDT_cpf;EDT_senha
+POUSO ALEGRE/MG;https://pousoalegre.sigiss.com.br/pousoalegre/contribuinte/login.php;;ccm;senha
+POÇO FUNDO/MG;https://nfe.sgpcloud.net:9089/issweb/paginas/login;;username;password
+REDUTO/MG;http://nfe.reduto.mg.gov.br/emissor/login.php;;txtLogin;txtSenha
+S. SEBASTIAO DO PARAISO/MG;https://www.ereceita.net.br/inicial.php?time220684=220684173688030820250114154508220729&urlInicial=U0vOyUzNK0m1LS4uSCxKzCzOBwA%3D&session=19103121424340652nfse1736880303s045005700;acesso[cnpj];acesso[login];acesso[senha]
+SANTA RITA DO SAPUCAI;https://santaritadosapucai.meumunicipio.online/ISS/contribuinte/login.php;;ccm;senha
+SANTANA DA VARGEM/MG;https://e-gov.betha.com.br/e-nota/login.faces;;login:iUsuarios;login:senha
+SANTANA DO MANHUAÇU/MG;https://mg-santanadomanhuacu-pm-nfs.cloud.el.com.br/;;j_idt57;j_idt61
+SAO JOAO DEL REI/MG;https://parademinas.mg.issqn.quasar.srv.br/issqn/login.xhtml;;formPrincipal:login;formPrincipal:senha
+SERRANIA/MG;https://e-gov.betha.com.br/e-nota/login.faces;;login:iUsuarios;login:senha
+SIMONESIA/MG;https://mg-simonesia-pm-nfs.cloud.el.com.br/;;j_idt57;j_idt61
+SOCORRO/SP;https://www.nfe-cidades.com.br/;;iss_username;iss_password
+SOORETAMA/ES;https://es-sooretama-pm-nfs.cloud.el.com.br//paginas/sistema/login.jsf#/login;;usuario;senha
+TEIXEIRA DE FREITAS/BA;http://trbteixeira.kbfsistemas.com.br/nfsePmTeixeiradeFreitas/;WFRInput583030;WFRInput583028;WFRInput583064
+UBERLANDIA/MG;https://udigital.uberlandia.mg.gov.br/NotaFiscal/;;;
+VARGINHA/MG;https://login.betha.cloud/servicelogin/login.faces?app=fdb52087-1e65-4995-8487-9616ad3a582f&continue=dUt3pl7deSJcIfYbNgSBvyszrVx7CtLXMQ8SyjaTDIyAxIspOkXzLADGEjv59FmVkDvvSbpRV9h8ufTnTBpXO7RI651ay-4W0qjEeiwAsRh590WUvojGGAx8rA2NiTkJI1Q3EuD6K-r2rbGgnDNe9XgU8WaRw6h_4mYxq9SeMgWQbkZ-IzgX38imstfmNwxw2-BoM5ajcs-gN-ts8y7-j9dst-buRr6YeRjGRRNuauekzrLef5MsNjHXgwor4DPaktucOD5sHMeI-8jZ-jrlgwEatZ0sVF1625bDZt5KBQdrekbjzorxnOgq79J419yMtRjZAX0PdgVNs53Fh5OdFP5nTmHFgw1-R1xVAhYlZ8Ifa2O45TZGEqHtsd2VShegcG3EW77fX0uUbDGlMurzLtTNP8nkNU9KPRmfVPW2QfOKTFjCwlseBz2EtbXOMFbYq1LkMqqCPO0DVAAuO2E3zuopRNPMx2KNcRmN4d9Mkydu6tKuBNUghiQSKVoMb7ZpT-5iW5QwpffKPuKq8pJhw0E_kgXIsi80ErQxo-4RycVaCsRze9ul2g==&mobile=false;;login:iUsuarios;login:senha
+VITORIA/ES;https://nfse.vitoria.es.gov.br/;;login;senha
+VIÇOSA/MG;https://vicosa.ereceita.net.br/;acesso[cnpj];acesso[login];acesso[senha]
